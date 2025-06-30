@@ -1,5 +1,5 @@
-# ai-mood-playlist-generator
-This AI Mood-Based Playlist Generator allows users to input a description of their current emotional state (e.g., “I’m feeling heartbroken”, “I had a great day!”).
+# 🎧 AI Mood-Based Playlist Generator
+This project uses AI to detect your mood and generate a personalized playlist using Spotify.
 
 ## 🔥 Features
 - Emotion detection using Hugging Face transformer (`distilroberta-base`)
