@@ -11,7 +11,12 @@ To use the Spotify Web API , follow these steps to get your credentiails:
   2. Click "Create an App" , and provide a name and a despcription.
   3. After creating thra app, you'll get :
      Cliend ID and Client Secret
-  4. In the code , find where Spotify credentials are initialized and replace the placeholder with your credentials. 
+  4. In the code , find where Spotify credentials are initialized and replace the placeholder with your credentials.
+
+## 📦 Requirements
+  Before running the app make sure you install the following Python packages:
+    pip install pandas streamlit
+    pip install transformers spotipy
 ## 🚀 How to Run
 
 ### Clone the repository
