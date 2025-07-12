@@ -19,9 +19,11 @@ To use the Spotify Web API , follow these steps to get your credentiails:
   - pip install transformers spotipy
 ## 🚀 How to Run
 
-### Clone the repository
+### 1.Clone the repository
 ```bash
 git clone https://github.com/rai-harshit01/ai-mood-playlist-generator.git
 cd ai-mood-playlist-generator
+
+### 2.Install Required Packages
 
 
