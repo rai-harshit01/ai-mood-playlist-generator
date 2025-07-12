@@ -15,8 +15,8 @@ To use the Spotify Web API , follow these steps to get your credentiails:
 
 ## 📦 Requirements
   Before running the app make sure you install the following Python packages:
-    pip install pandas streamlit
-    pip install transformers spotipy
+  - pip install pandas streamlit
+  - pip install transformers spotipy
 ## 🚀 How to Run
 
 ### Clone the repository
