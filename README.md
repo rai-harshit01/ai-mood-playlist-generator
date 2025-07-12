@@ -38,21 +38,21 @@ use the command below to start the Streamlit app:
 streamlit run app.py
 ```
 ### 5.Use the APP
--A browser tab will open at http://localhost:8501
+- A browser tab will open at http://localhost:8501
 
--Enter a sentence describing your mood (e.g., "I feel so happy today!")
+- Enter a sentence describing your mood (e.g., "I feel so happy today!")
 
--Click 🎶 Generate Playlist
+- Click 🎶 Generate Playlist
 
--The app will:
+- The app will:
 
-  -Detect your emotion using Hugging Face
+  - Detect your emotion using Hugging Face
   
-  -Suggest a matching Spotify playlist
+  - Suggest a matching Spotify playlist
   
-  -Show a link you can open directly in Spotify
+  - Show a link you can open directly in Spotify
   
-  -Not happy with the playlist? Click "Don't like it? Show another"
+  - Not happy with the playlist? Click "Don't like it? Show another"
 
 
 
